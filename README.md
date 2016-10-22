@@ -1,0 +1,1 @@
+# smarthome-technical-prototype
