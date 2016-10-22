@@ -28,8 +28,6 @@ function switchMe(group, power) {
       console.log('No valid command. [group-id] [on/off]');
   }
 
-
-
 }
 
 switchMe(args[2], args[3]);
