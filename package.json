@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Hello World\" && exit 0",
-    "publish-raspberry": "node publish.raspberry.js"
+    "publish-raspberry": "node tasks/publish.raspberry.js"
   },
   "repository": {
     "type": "git",
