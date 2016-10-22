@@ -4,7 +4,8 @@
   "description": "Technical prototype",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Hello World\" && exit 0"
+    "test": "echo \"Hello World\" && exit 0",
+    "publish-raspberry": "node tasks/publish.raspberry.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/ChristopherNeuwirth/smarthome-technical-prototype/issues"
   },
-  "homepage": "https://github.com/ChristopherNeuwirth/smarthome-technical-prototype#readme"
+  "homepage": "https://github.com/ChristopherNeuwirth/smarthome-technical-prototype#readme",
+  "devDependencies": {
+    "ncp": "^2.0.0"
+  }
 }
