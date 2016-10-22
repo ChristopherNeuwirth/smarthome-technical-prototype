@@ -1,0 +1,24 @@
+{
+  "name": "smarthome-technical-prototype",
+  "version": "0.0.1",
+  "description": "Technical prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello World\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopherNeuwirth/smarthome-technical-prototype.git"
+  },
+  "keywords": [
+    "smarthome",
+    "home",
+    "automation"
+  ],
+  "author": "Christopher Neuwirth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChristopherNeuwirth/smarthome-technical-prototype/issues"
+  },
+  "homepage": "https://github.com/ChristopherNeuwirth/smarthome-technical-prototype#readme"
+}

@@ -1,1 +1,1 @@
-# smarthome-technical-prototype
+# Smarthome Technical Prototype - Jarvis
