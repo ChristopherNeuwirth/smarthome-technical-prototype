@@ -1,6 +1,6 @@
 {
   "name": "smarthome-technical-prototype",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Technical prototype",
   "main": "index.js",
   "scripts": {
