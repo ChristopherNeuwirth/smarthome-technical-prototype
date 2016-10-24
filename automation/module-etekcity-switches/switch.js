@@ -1,8 +1,6 @@
-let args = process.argv, //running arguments from command line
-    rpi433    = require('rpi-433'),
+let rpi433    = require('rpi-433'),
     rfEmitter = rpi433.emitter({pin: 0, pulseLength: 180}),
-    switchGroups = require('./switch.groups.json')
-    ;
+    switchGroups = require('./switch.groups.json');
 
 let switchMe = (group, power) => {
   let response;
