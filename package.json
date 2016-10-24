@@ -1,6 +1,6 @@
 {
   "name": "smarthome-technical-prototype",
-  "version": "0.0.1",
+  "version": "0.1.2",
   "description": "Technical prototype",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,10 @@
   "homepage": "https://github.com/ChristopherNeuwirth/smarthome-technical-prototype#readme",
   "devDependencies": {
     "ncp": "^2.0.0"
+  },
+  "dependencies": {
+    "hapi": "^15.2.0",
+    "rpi-433": "^2.1.0",
+    "wiring-pi": "^2.2.0"
   }
 }
